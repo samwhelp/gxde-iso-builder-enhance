@@ -1,0 +1,27 @@
+
+
+##
+## # Network
+##
+
+
+
+
+##
+## ## Package / Network Manager
+##
+
+network-manager-gnome
+#network-manager-openconnect-gnome
+#network-manager-openvpn-gnome
+
+
+
+
+##
+## ## Package / Bluetooth
+##
+
+bluetooth
+##bluez
+blueman

@@ -1,0 +1,119 @@
+
+
+##
+## # Tool
+##
+
+
+
+
+##
+## ## Package / Tool / Download
+##
+
+wget
+curl
+git
+yt-dlp
+
+
+
+
+##
+## ## Package / Tool / Launcher
+##
+
+rofi
+
+
+
+
+##
+## ## Package / Tool / Terminal
+##
+
+sakura
+xfce4-terminal
+lxterminal
+qterminal
+
+
+
+##
+## ## Package / Tool / File Manager
+##
+
+pcmanfm-qt
+pcmanfm
+thunar
+
+
+
+
+##
+## ## Package / Tool / Archiver
+##
+
+engrampa
+lxqt-archiver
+
+p7zip-full
+unrar-free
+
+
+
+
+##
+## ## Package / Tool / Text Editor
+##
+
+mousepad
+vim
+neovim
+micro
+nano
+
+
+geany
+
+
+featherpad
+feathernotes
+
+
+
+
+##
+## ## Package / Tool / Image Viewer
+##
+
+viewnior
+
+
+
+
+##
+## ## Package / Tool / Video Player
+##
+
+mpv
+smplayer
+vlc
+
+
+
+
+##
+## ## Package / Tool / Audio Player
+##
+
+audacious
+
+
+
+
+##
+## ## Package / Tool / Wallpaper Controller
+##
+
+variety
