@@ -1,0 +1,8 @@
+deb [trusted=true] http://repo-gxde.gfdgdxi.top/gxde-os/bixie ./
+
+# Mirror 1
+#deb [trusted=true] http://gfdgdxi.ss5.tunnelfrp.com/GXDE/ ./
+#deb [trusted=true] http://gfdgdxi.ss5.tunnelfrp.com/GXDE-More/ ./
+#deb [trusted=true] http://gfdgdxi.ss5.tunnelfrp.com/gxde-linux-kernel/ ./
+# Mirror 2
+#deb [trusted=true] http://dde15.debian12.gfdgdxi.top/ ./

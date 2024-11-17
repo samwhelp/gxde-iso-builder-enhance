@@ -1,0 +1,14 @@
+[org.gnome.desktop.sound]
+event-sounds=false
+
+[com.deepin.wrap.gnome.desktop.sound]
+event-sounds=false
+
+[com.deepin.dde.daemon]
+soundeffect=false
+
+[com.deepin.dde.sound-effect]
+enabled=false
+
+[com.deepin.xsettings]
+enable-event-sounds=false

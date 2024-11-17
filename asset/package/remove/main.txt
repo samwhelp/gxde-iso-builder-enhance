@@ -1,0 +1,14 @@
+
+
+##
+## # Main
+##
+
+
+mlterm
+mlterm-tiny
+#deepin-terminal-gtk
+deepin-terminal
+ibus
+systemsettings
+#deepin-wine8-stable

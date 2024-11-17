@@ -1,0 +1,2 @@
+deb [trusted=true] https://packages.gxde.org/debian-loong64/ unstable main contrib non-free non-free-firmware
+deb [trusted=true] https://packages.gxde.org/debian-loong64/ unreleased main contrib non-free non-free-firmware
