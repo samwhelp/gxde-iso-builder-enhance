@@ -36,6 +36,8 @@ libqt6svg6
 qt5-style-kvantum
 
 
+
+
 ##
 ## qt5ct
 ##
