@@ -1267,9 +1267,9 @@ gxde_build_os_package_install_app_store () {
 
 gxde_build_os_package_install_web_browser () {
 
-	gxde_build_os_package_install_web_browser_firefox_esr
-
 	gxde_build_os_package_install_web_browser_chromium
+
+	gxde_build_os_package_install_web_browser_firefox_esr
 
 	#gxde_build_os_package_install_web_browser_firefox_spark
 
