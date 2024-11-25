@@ -217,7 +217,9 @@ master_var_init () {
 	DEFAULT_PACKAGE_REPO_URL="https://mirrors.sdu.edu.cn/debian/"
 	REF_PACKAGE_REPO_URL="${REF_PACKAGE_REPO_URL:=$DEFAULT_PACKAGE_REPO_URL}"
 
-	DEFAULT_BUILD_INCLUDE="debian-ports-archive-keyring,debian-archive-keyring,live-task-recommended,live-task-standard,live-config-systemd,live-boot"
+	#DEFAULT_BUILD_INCLUDE="debian-ports-archive-keyring,debian-archive-keyring,live-task-recommended,live-task-standard,live-config-systemd,live-boot"
+	#DEFAULT_BUILD_INCLUDE="debian-ports-archive-keyring,debian-archive-keyring,sudo"
+	DEFAULT_BUILD_INCLUDE="debian-ports-archive-keyring,debian-archive-keyring,apt-transport-https,ca-certificates,openssl"
 	REF_BUILD_INCLUDE="${REF_BUILD_INCLUDE:=$DEFAULT_BUILD_INCLUDE}"
 
 
