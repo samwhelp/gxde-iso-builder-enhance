@@ -214,7 +214,7 @@ master_var_init () {
 	DEFAULT_BUILD_SUITE="bookworm"
 	REF_BUILD_SUITE="${REF_BUILD_SUITE:=$DEFAULT_BUILD_SUITE}"
 
-	DEFAULT_PACKAGE_REPO_URL="https://mirrors.tuna.tsinghua.edu.cn/debian/"
+	DEFAULT_PACKAGE_REPO_URL="https://mirrors.sdu.edu.cn/debian/"
 	REF_PACKAGE_REPO_URL="${REF_PACKAGE_REPO_URL:=$DEFAULT_PACKAGE_REPO_URL}"
 
 	DEFAULT_BUILD_INCLUDE="debian-ports-archive-keyring,debian-archive-keyring,live-task-recommended,live-task-standard,live-config-systemd,live-boot"
