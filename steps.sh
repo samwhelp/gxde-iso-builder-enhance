@@ -1194,9 +1194,9 @@ gxde_build_os_package_install_network () {
 gxde_build_os_package_install_input_method () {
 
 	util_error_echo
-	util_error_echo core_chroot_package_control install im-config fcitx5 fcitx5-chewing fcitx5-pinyin -y
+	util_error_echo core_chroot_package_control install im-config fcitx5 fcitx5-frontend-all fcitx5-chinese-addons fcitx5-chewing fcitx5-pinyin -y
 	util_error_echo
-	core_chroot_package_control install im-config fcitx5 fcitx5-chewing fcitx5-pinyin -y
+	core_chroot_package_control install im-config fcitx5 fcitx5-frontend-all fcitx5-chinese-addons fcitx5-chewing fcitx5-pinyin -y
 
 
 	return 0
